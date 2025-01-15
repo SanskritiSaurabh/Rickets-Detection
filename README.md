@@ -89,12 +89,6 @@ prediction = predict_from_drive('image_name.png')
 - AUC-ROC curve
 - Real-time visualization of predictions
 
-## License
-[Add your license information here]
-
-## Contributors
-[Add contributor information here]
-
 ## Acknowledgments
 - TensorFlow team for the EfficientNet implementation
 - Google Colab for providing GPU resources
